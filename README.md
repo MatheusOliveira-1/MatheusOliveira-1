@@ -27,7 +27,7 @@
 </br>
 </br>
 </br>
-</br>
+</br>  <!--- criador da tabela https://github.com/anuraghazra -->
 
 ## Olá, eu sou Matheus Oliveira!
 
