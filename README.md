@@ -12,14 +12,14 @@
     <img
       align="center"
       height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=7&theme=dracula"
+      src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     />
   </a>
   <a href="https://github.com/MatheusOliveira-1">
     <img
       align="center"
       height="150"
-      src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=16&theme=dracula"
     />
   </a>
 </p>
