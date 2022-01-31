@@ -7,10 +7,10 @@
 </br>
 </br>
 </br>
-<p align="right">
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      align="center"
+      align="right"
       height="165"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=7&theme=dracula"
     />
