@@ -8,14 +8,14 @@
 </br>
 </br>
 <p align="center">
-  <a href="https://github.com/MatheusOliveira-1/github-readme-stats">
+  <a href="https://github.com/MatheusOliveira-1">
     <img
       align="center"
       height="150"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=7&theme=dracula"
     />
   </a>
-  <a href="https://github.com/MatheusOliveira-1/github-readme-stats">
+  <a href="https://github.com/MatheusOliveira-1">
     <img
       align="center"
       height="150"
