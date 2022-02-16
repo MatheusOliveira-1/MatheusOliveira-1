@@ -31,9 +31,11 @@
 ## Minhas habilidades 💡
 <div align="center">
     &nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
     &nbsp;
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    &nbsp;
+    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
     &nbsp;
 
    
