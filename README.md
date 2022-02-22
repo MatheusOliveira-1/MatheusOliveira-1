@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/matheus-oliveira-5993a518a/" rel="noreferrer" target="_blank">
+  <a href="https://www.linkedin.com/in/mo-dev/" rel="noreferrer" target="_blank">
     <img align="center" width="500" src="Assets/MatheusOliveira.svg" />
   </a>
 <p/>
@@ -8,11 +8,23 @@
 </br>
 </br>
 
-<div align="center">
-  <a href="https://github.com/MatheusOliveira-1">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## **Estatísticas GitHub**
+
+<br/>
+<p align="left">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusOliveira-1&theme=dracula&hide_border=true" />
+  </a>
+</p>
+<br>
+
+![Matheus Oliveira ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MatheusOliveira-1&custom_title=Matheus%20Contribution%20Graph&theme=dracula&bg_color=#cf40c8&hide_border=true&line=d1a01f&point=#c4439f)
+
+
+<a href="https://github.com/MatheusOliveira-1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&theme=dracula&hide_langs_below=1" alt="MATHEUS OLIVEIRA github stats"/>
+</a>
+
   
 </br>
 </br>
@@ -52,7 +64,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mhs.oliveira1996@gmail.com">
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/matheus-oliveira-5993a518a/"> 
+    <a href="https://www.linkedin.com/in/mo-dev/"> 
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/matheus-oliveira-5993a518a/">
     &nbsp;
     </a>
