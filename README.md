@@ -22,7 +22,8 @@
 
 
 <a href="https://github.com/MatheusOliveira-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&theme=dracula&hide_langs_below=1" alt="MATHEUS OLIVEIRA github stats"/>
+      <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=7&theme=dracula" /></td>
+
 </a>
 
   
