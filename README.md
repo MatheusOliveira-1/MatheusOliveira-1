@@ -22,7 +22,7 @@
 
 
 <a href="https://github.com/MatheusOliveira-1">
-      <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=7&theme=dracula" /></td>
+      <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=100&theme=dracula" /></td>
 
 </a>
 
