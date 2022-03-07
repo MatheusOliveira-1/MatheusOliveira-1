@@ -38,7 +38,7 @@
  Sobre mim:
 
 - ☕ Estudante de Desenvolvimento Java Full Stack
-- 🤓 Interessado em Mysql, CSS, HTML, Javascript, Kotlin e Machine / Deep Learning
+- 🤓 Interessado em Mysql, CSS, HTML, Javascript, Python, Kotlin e Machine / Deep Learning
 - 🎯 Gosto de de procurar novas soluções, me aprimorar pessoalmente e me divertir sempre que possível!
 
 ## Minhas habilidades 💡
