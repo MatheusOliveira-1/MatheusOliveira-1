@@ -41,7 +41,7 @@
 - 🤓 Interessado em Mysql, CSS, HTML, Javascript, Python, Kotlin e Machine / Deep Learning
 - 🎯 Gosto de de procurar novas soluções, me aprimorar pessoalmente e me divertir sempre que possível!
 
-## Minhas habilidades 💡
+## Linguagens, Bibliotecas e Frameworks 💡
 <div align="center">
     &nbsp;
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
