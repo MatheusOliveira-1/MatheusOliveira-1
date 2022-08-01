@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mo-dev/" rel="noreferrer" target="_blank">
+  <a href="https://linktr.ee/mo.dev" rel="noreferrer" target="_blank">
     <img align="center" width="500" src="Assets/logo.svg" />
   </a>
 <p/>
