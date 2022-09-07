@@ -5,32 +5,21 @@
   </a>
 <p/>
 </br>
-</br>
-</br>
 
 ## **Estatísticas GitHub**
 
 <br/>
-<p align="left">
-   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatheusOliveira-1&theme=dracula&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/MatheusOliveira-1">
+       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula" />
+       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=100000&theme=dracula" />
   </a>
 </p>
-<br>
 
+<!---
 ![Matheus Oliveira ' Activity Graph](https://activity-graph.herokuapp.com/graph?username=MatheusOliveira-1&custom_title=Matheus%20Contribution%20Graph&theme=dracula&bg_color=#cf40c8&hide_border=true&line=d1a01f&point=#c4439f)
-
-
-<a href="https://github.com/MatheusOliveira-1">
-      <td><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=100000&theme=dracula" /></td>
-
-</a>
-
+-->
   
-</br>
-</br>
-</br>
-</br>
 </br>  <!--- criador da tabela https://github.com/anuraghazra -->
 
 ## Olá, eu sou Matheus Oliveira!
@@ -40,6 +29,8 @@
 - ☕ Estudante de Desenvolvimento Java Full Stack
 - 🤓 Interessado em Mysql, CSS, HTML, Javascript, Python, Kotlin e Machine / Deep Learning
 - 🎯 Gosto de de procurar novas soluções, me aprimorar pessoalmente e me divertir sempre que possível!
+
+</br>
 
 ## Linguagens, Bibliotecas e Frameworks 💡
 <div align="center">
@@ -62,7 +53,6 @@
    
 </div>
 </br>
-</br>
 
 
 ## Meus contatos :iphone:
@@ -79,7 +69,6 @@
     </a>
 </p>
 
-</br>
 </br>
 
 <p align="center"> 
