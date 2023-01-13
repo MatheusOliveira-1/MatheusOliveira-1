@@ -11,8 +11,8 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MatheusOliveira-1">
-       <img height="165em" src="https://github-readme-stats.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula" />
-       <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=100000&theme=dracula" />
+       <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula" />
+       <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=100000&theme=dracula" />
   </a>
 </p>
 
