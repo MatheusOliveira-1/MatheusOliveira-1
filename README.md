@@ -11,7 +11,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/MatheusOliveira-1">
-       <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusOliveira-1&show_icons=true&theme=dracula" />
+      <!-- <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MatheusOliveira-1&show=prs.commits&show_icons=true&theme=dracula" /> -->
        <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MatheusOliveira-1&layout=compact&langs_count=100000&theme=dracula" />
   </a>
 </p>
@@ -48,6 +48,8 @@
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    &nbsp;
+      <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/react-original.svg">
     &nbsp;
 
    
